@@ -1,0 +1,17 @@
+body *:nth-child(odd) {
+    background-color: lightpink;
+    font-family: Verdana, sans-serif;
+}
+
+#second-styles {
+    color: blue;
+    font-size: 36px;    
+}
+.third-styles {
+    font-size: 24px;
+}
+#fourth-styles {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
